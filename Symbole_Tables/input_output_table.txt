@@ -1,0 +1,6 @@
+inp F800
+out F400
+ski F200
+sko F100
+ion F080
+iof F040

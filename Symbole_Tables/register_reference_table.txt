@@ -1,0 +1,12 @@
+cla 7800
+cle 7400
+cma 7200
+cme 7100
+cir 7080
+cil 7040
+inc 7020
+spa 7010
+sna 7008
+sza 7004
+sze 7002
+hlt 7001
